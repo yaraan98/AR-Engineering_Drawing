@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="focus4" size="0.300000 0.231715" />
+    <ImageTarget name="focus3" size="0.300000 0.230994" />
+    <ImageTarget name="focus2" size="0.060000 0.046584" />
+    <ImageTarget name="focus_horz" size="0.060000 0.046715" />
+    <ImageTarget name="Focus" size="0.600000 0.465839" />
+    <ImageTarget name="NoteBook" size="0.140000 0.215886" />
+  </Tracking>
+</QCARConfig>

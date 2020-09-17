@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Main Menu.unity
+    guid: e8dda432610a4bf4c9ac3c68478eff03
+  - enabled: 1
+    path: Assets/ScanModel Menu.unity
+    guid: e1474b38ed24c7f4f97f75dc9173c0fc
+  - enabled: 1
+    path: Assets/Scene 01.unity
+    guid: 1043027dbcbf1104ba885104a25020ef
+  - enabled: 1
+    path: Assets/TestYourself Menu.unity
+    guid: 17449cebb9e91944bb875c2fe182666e
+  - enabled: 1
+    path: Assets/3Q TestYourself.unity
+    guid: f1e1d6eff0a76294489556d012ec3deb
+  - enabled: 1
+    path: Assets/5Q TestYourself.unity
+    guid: 4c47f14ac1339fa4c96391e271b4ccfd
+  - enabled: 1
+    path: Assets/7Q TestYourself.unity
+    guid: c12001058caf11f4b8fb03052a2f3264
+  - enabled: 1
+    path: Assets/Instructions.unity
+    guid: 8fc833d7fa0aa3e4face3bb4a86bb246
+  m_configObjects: {}
