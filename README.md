@@ -12,7 +12,7 @@ This project is divided into two main parts:
 ### 1. Scan Models
 * Choose from the set of model images available.
 
-![model's image](https://i.imgur.com/nudepNB.jpg)
+![model's image](https://i.imgur.com/jF7T2vs.jpg)
 
 * View the model in AR.
 
